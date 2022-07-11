@@ -9,3 +9,22 @@ node_modules/
 # build
 dist/
 build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+.DS_Store
+dist
+lib
+es
+_site
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+/coverage
