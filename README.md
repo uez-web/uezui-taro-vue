@@ -1,4 +1,4 @@
-<h1 align="center">Ydui Taro Vue</h1>
+<h1 align="center">YdUI Taro Vue</h1>
 <p align="center">A taro vue ui framework</p>
 
 ## Using npm or yarn
