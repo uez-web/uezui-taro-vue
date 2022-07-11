@@ -1,0 +1,11 @@
+# idea
+.idea
+.vscode
+.history
+
+# devDependencies
+node_modules/
+
+# build
+dist/
+build/
