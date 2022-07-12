@@ -1,8 +1,8 @@
 {
-  "name": "ydui-taro-vue",
+  "name": "uezui-taro-vue",
   "version": "1.0.0",
-  "title": "YdUI Taro Vue",
-  "description": "A taro vue ui framework",
+  "title": "UezUI Taro Vue",
+  "description": "A taro vue3 ui framework",
   "author": {
     "email": "yucc.coke@gmail.com",
     "name": "yycc0526",
@@ -14,14 +14,15 @@
     "taro",
     "ui",
     "ydui",
-    "framework"
+    "framework",
+    "vite"
   ],
   "main": "index.js",
   "license": "MIT",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yycc0526/ydui-taro-vue.git"
+    "url": "git+https://github.com/yycc0526/uezui-taro-vue.git"
   },
   "peerDependencies": {
     "vue": ">=3.2.0"
