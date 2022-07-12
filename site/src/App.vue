@@ -1,5 +1,5 @@
 <template>
-  <div class="yd-container">YdUI Taro Vue</div>
+  <div class="uez-container">UezUI Taro Vue</div>
 </template>
 
 <script lang="ts">
