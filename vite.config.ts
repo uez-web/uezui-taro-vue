@@ -6,7 +6,7 @@ import vueJsx from "@vitejs/plugin-vue-jsx";
 export default defineConfig({
   resolve: {
     alias: {
-      "ydui-taro-vue": path.join(__dirname, "./components"),
+      "uezui-taro-vue": path.join(__dirname, "./components"),
     },
   },
   css: {
